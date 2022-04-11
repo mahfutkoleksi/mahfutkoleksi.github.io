@@ -1142,7 +1142,6 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
 .theme-main-menu.theme-menu-two .inner-content {
   background: rgba(255, 255, 255, 0.5);
   border-radius: 15px;
-  padding: 12px 35px;
   transition: all 0.3s ease-in-out;
 }
 .theme-main-menu.theme-menu-two.fixed .inner-content {padding: 0;}
@@ -2267,9 +2266,10 @@ body .theme-btn-eighteen:hover:before {background: #FF7961;}
   background-size: cover;
   position: relative;
   z-index: 2;
-  padding: 250px 0 0;
-  height: 1100px;
+  /*padding: 250px 0 0;*/
+  /*height: 500px;*/
 }
+
 .hero-banner-two .container {max-width: 1440px; padding: 0 12px;}
 .hero-banner-two .main-content {position: relative;}
 .hero-banner-two .shape-one {
